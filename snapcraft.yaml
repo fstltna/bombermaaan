@@ -6,7 +6,7 @@ description: |
   Fan-built Bomberman clone
 
 grade: stable
-icon: bombermaaan_icon.png
+icon: bombermaan_icon.png
 
 base: core18
 confinement: strict
